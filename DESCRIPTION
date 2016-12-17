@@ -1,0 +1,16 @@
+Package: bfcluster
+Title: Birkhoff-Fan Clustering
+Version: 0.1
+Authors@R: person("Zhifei", "Yan", email = "yan.91@osu.edu", role = c("aut", "cre"))
+Description: ADMM algorithm for Birkhoff-Fan clustering
+Depends:
+    R (>= 3.2.3)
+Imports:
+    Rcpp(>= 0.12.0),
+    RcppArmadillo (>= 0.5.0),
+    ggplot2,
+    reshape2,
+    gtools
+LinkingTo: Rcpp, RcppArmadillo
+License: GPL (>= 2)
+RoxygenNote: 5.0.1
