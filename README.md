@@ -12,8 +12,8 @@ The ADMM algorithm is written in C++ using [Rcpp](http://www.rcpp.org)
 and the [Armadillo](http://arma.sourceforge.net) C++ library. 
 The package also provides several class methods for analyzing and visualizing
 results and other utilities for clustering.
-A manuscript describing the SDP and some of the statistical properties of 
-its solution is forthcoming.
+
+Supported in part by the National Science Foundation under grant DMS-1513621
 
 Installation
 ------------
